@@ -55,19 +55,19 @@
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/wordpress.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://www.svgrepo.com/show/303503/shopify-logo.svg'> </a>
 
+<br>
+<br>
+<br>
+<h2> Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h2>
 
+![Ramón's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=infamousray64&show_icons=true&theme=dark&locale=en&layout=compact)
+<br>
+![Ramón's GitHub stats](https://github-readme-stats.vercel.app/api?username=infamousray64&show_icons=true&theme=tokyonight) 
+<br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://github.com/Infamousray64?tab=repositories'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/Infamousray64?tab=repositories'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-<br>
-
-![Ramón's GitHub stats](https://github-readme-stats.vercel.app/api?username=infamousray64&show_icons=true&theme=tokyonight)
-
-<br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
