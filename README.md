@@ -34,7 +34,6 @@
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/csharp.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg'> </a>
 
 
 
