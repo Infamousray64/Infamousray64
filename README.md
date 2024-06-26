@@ -49,6 +49,8 @@
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/azure.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/linux.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://www.svgrepo.com/show/327408/logo-vercel.svg'> </a>
+<a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg'> </a>
+<a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg'> </a>
