@@ -15,9 +15,11 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🐱‍💻 Software Engineer / Ingeniero de sistemas.
+- 👨‍🎓 Software Engineer / Ingeniero de sistemas.
   
-- 🌱 I'm currently working as a web developer at Locatel Master, Venezuela.
+- 🐱‍💻 Web developer at Locatel Master, Venezuela.
+
+- 🌱 I'm learning Android mobile development.
   
 - 🎯 I adapt quickly to any technology, although I specialize in JS, Python and C#.
   
