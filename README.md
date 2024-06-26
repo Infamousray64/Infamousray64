@@ -19,9 +19,9 @@
   
 - 🐱‍💻 Web developer at Locatel Master, Venezuela.
 
-- 🌱 I'm learning Android mobile development.
-  
 - 🎯 I adapt quickly to any technology, although I specialize in JS, Python and C#.
+
+- 🌱 I'm learning Android mobile development.
   
 - 🧠 Knowledge in database.
   
