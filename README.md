@@ -28,6 +28,7 @@
 - ⚡ Cisco CCNA.
 
 <h2> Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/csharp.svg'> </a>
