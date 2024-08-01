@@ -11,7 +11,7 @@
 
   <div size='20px'>Thank You for taking the time to view my GitHub Profile!</div>
 
-<h2> <img src = "https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width = 30px>  About Me / Sobre mi </h2>
+<h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px>  About Me / Sobre mi </h2>
 
 <p><img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" /></p>
 
