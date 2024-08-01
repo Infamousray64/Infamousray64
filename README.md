@@ -9,7 +9,7 @@
 
 
 
-  <div size='20px'>My name is Ramón Marrón. Thank You for taking the time to view my GitHub Profile</div>
+  <div size='20px'>Thank You for taking the time to view my GitHub Profile</div>
 
 <h2> <img src = "https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width = 30px>  About Me / Sobre mi </h2>
 
