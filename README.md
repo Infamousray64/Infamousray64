@@ -66,6 +66,8 @@
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/wordpress.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://www.svgrepo.com/show/303503/shopify-logo.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg'> </a>
+<a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://www.svgrepo.com/show/376337/node-js.svg'> </a>
+
 
 
 
