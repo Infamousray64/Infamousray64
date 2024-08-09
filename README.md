@@ -46,6 +46,7 @@
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/blazor.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://www.svgrepo.com/show/373446/astro.svg'> </a>
+<a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://www.svgrepo.com/show/333609/tailwind-css.svg'> </a>
 
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tools  </h2>
@@ -64,7 +65,7 @@
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3Fq8OgPD1-Cl7I0kYtyT5i1P_yLmae3QNA&s'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/wordpress.svg'> </a>
 <a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://www.svgrepo.com/show/303503/shopify-logo.svg'> </a>
-<a href= https://github.com/Infamousray64?tab=repositories > <img width ='32px' src ='https://www.svgrepo.com/show/333609/tailwind-css.svg'> </a>
+
 
 
 <br>
