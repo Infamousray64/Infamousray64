@@ -15,8 +15,6 @@
 
 <p><img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" /></p>
 
-- Programming enthusiast.
-  
 - Web developer at Locatel Master, Venezuela.
 
 - I adapt quickly to any technology, although I specialize in JS, Python and C#.
