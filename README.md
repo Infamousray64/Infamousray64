@@ -8,7 +8,6 @@
 
 
 
-
   <div size='20px'>Thank You for taking the time to view my GitHub Profile!</div>
 
 <h2> About Me / Sobre mi </h2>
