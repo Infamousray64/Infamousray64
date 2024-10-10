@@ -10,7 +10,7 @@
 
   <div size='20px'>Thank You for taking the time to view my GitHub Profile!</div>
 
-<h2> About Me / Sobre mi </h2>
+<h2> About Me </h2>
 
 <p><img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" /></p>
 
